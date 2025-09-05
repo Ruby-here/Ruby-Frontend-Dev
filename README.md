@@ -13,7 +13,7 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
 
 ## 📌 Projects
-- [Portfolio Website](https://github.com/Ruby-here/portfolio)  
+- [Portfolio Website](https://ruby-here.github.io/Portfolio-website/)  
 - [Blogging Website](https://ruby-here.github.io/blogging-site/)  
 - [Dashboard](https://github.com/Ruby-here/dashboard)  
 
