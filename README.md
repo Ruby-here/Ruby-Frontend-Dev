@@ -14,7 +14,7 @@
 
 ## 📌 Projects
 - [Portfolio Website](https://github.com/Ruby-here/portfolio)  
-- [E-commerce UI](https://github.com/Ruby-here/ecommerce-ui)  
+- [Blogging Website](https://ruby-here.github.io/blogging-site/)  
 - [Dashboard](https://github.com/Ruby-here/dashboard)  
 
 ## 📫 Contact
