@@ -14,7 +14,8 @@
 
 ## 📌 Projects
 - [Portfolio Website](https://ruby-here.github.io/Portfolio-website/)  
-- [Blogging Website](https://ruby-here.github.io/blogging-site/)  
+- [Blogging Website](https://ruby-here.github.io/blogging-site/)
+- [Ruby-store](https://ruby-here.github.io/Ruby-store/) 
 - [Dashboard](https://github.com/Ruby-here/dashboard)  
 
 ## 📫 Contact
